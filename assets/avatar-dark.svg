@@ -1,0 +1,32 @@
+<svg width="250" height="380" viewBox="0 0 250 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ascii {
+      font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+      font-size: 8.8px;
+      fill: #e4e4e7;
+    }
+  </style>
+  <text x="125" y="98.4" text-anchor="middle" class="ascii">:::::</text>
+  <text x="125" y="108.8" text-anchor="middle" class="ascii">:=+*#%%%%%#*+=:</text>
+  <text x="125" y="119.2" text-anchor="middle" class="ascii">-+#%%%%%%@%%%%%%#+-</text>
+  <text x="125" y="129.6" text-anchor="middle" class="ascii">:=*%%%%@%@@%@@%@%%%%*=:</text>
+  <text x="125" y="140.0" text-anchor="middle" class="ascii">:=##%%%%%%%@@@%%%%%%%##=:</text>
+  <text x="125" y="150.4" text-anchor="middle" class="ascii">-*##%%%%%@@%%%@@%%%%%##*-</text>
+  <text x="125" y="160.8" text-anchor="middle" class="ascii">:=*##%%%%%%%@@@%%%%%%%##*=:</text>
+  <text x="125" y="171.2" text-anchor="middle" class="ascii">.=*###%%%%%%%%%%%%%%%###*=.</text>
+  <text x="125" y="181.6" text-anchor="middle" class="ascii">-+**####%%%%%%%%%####**+-</text>
+  <text x="125" y="192.0" text-anchor="middle" class="ascii">.-+***#############***+-.</text>
+  <text x="125" y="202.4" text-anchor="middle" class="ascii">.:=++***#######***++=:.</text>
+  <text x="125" y="212.8" text-anchor="middle" class="ascii">.:==++++***++++==:.</text>
+  <text x="125" y="223.2" text-anchor="middle" class="ascii">.::--=====--::.</text>
+  <text x="125" y="233.6" text-anchor="middle" class="ascii">.....</text>
+  <text x="125" y="264.8" text-anchor="middle" class="ascii">:--=======--:</text>
+  <text x="125" y="275.2" text-anchor="middle" class="ascii">:-++*#%%%%%%%%%#*++-:</text>
+  <text x="125" y="285.6" text-anchor="middle" class="ascii">:-+*#%%%%%%%%%%%%%%%%%#*+-:</text>
+  <text x="125" y="296.0" text-anchor="middle" class="ascii">.-+#%%%%%%%%%%%@%%%%%%%%%%%#+-.</text>
+  <text x="125" y="306.4" text-anchor="middle" class="ascii">:=*##%%%%%%%%%%%%%%%%%%%%%%%##*=:</text>
+  <text x="125" y="316.8" text-anchor="middle" class="ascii">:=*###%%%%%%%%%%%@%%%%%%%%%%%###*=:</text>
+  <text x="125" y="327.2" text-anchor="middle" class="ascii">:=*###%%%%%%%%%%%@@@%%%%%%%%%%%###*=:</text>
+  <text x="125" y="337.6" text-anchor="middle" class="ascii">:=*####%%%#%%%%%%%@%@%%%%%%%#%%%####*=:</text>
+  <text x="125" y="348.0" text-anchor="middle" class="ascii">:=*#####%%%%%%%%%%%%%%%%%%%%%%%#####*=:</text>
+</svg>
